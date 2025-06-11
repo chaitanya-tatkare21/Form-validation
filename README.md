@@ -3,6 +3,11 @@
 A simple and responsive registration form built using HTML, CSS, and JavaScript, featuring real-time form validation. 
 The UI presents a clean white form card centered on a stylish dark gradient background, making the form stand out with a modern and professional look.
 
+## 🚀 Live Demo
+
+👉 [View Live]( )  
+
+
 # 🎯 Features
 
 * ✅ Real-time validation (Username, Email, Password, Confirm Password)
